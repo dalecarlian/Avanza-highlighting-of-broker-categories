@@ -18,6 +18,8 @@
       e.css('background-color', 'pink');
     } else if(text == '-') {
       e.css('background-color', 'lightgray');
+    } else if(text == 'SWB' || text == 'SHB' || text == 'DDB' || text == 'NRD') {
+      e.css('background-color', 'lightblue');
     }
   }
 
