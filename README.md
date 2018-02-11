@@ -4,6 +4,8 @@ Run with Violentmonkey in [Chrome](https://chrome.google.com/webstore/detail/vio
 
 _Alternative [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) and [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)_
 
+Just open [avanza-highlight.user.js](https://github.com/dalecarlian/Avanza-highlighting-of-broker-categories/raw/master/avanza-highlight.user.js) and run/install with above extensions.
+
 Example:
 
 ![](https://github.com/dalecarlian/Avanza-highlighting-of-broker-categories/blob/master/example.png)
